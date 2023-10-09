@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> simple snapshot test 1`] = `
+[
+  <h1>
+    Vite + React
+  </h1>,
+  <div
+    className="card"
+  >
+    <button
+      data-testid="testBtn"
+      onClick={[Function]}
+    >
+      count is 
+      0
+    </button>
+    <input
+      data-testid="testInput"
+      onChange={[Function]}
+      value=""
+    />
+    <p>
+      Edit 
+      <code>
+        src/App.jsx
+      </code>
+       and save to test HMR
+    </p>
+  </div>,
+  <p
+    className="read-the-docs"
+  >
+    Click on the Vite and React logos to learn more
+  </p>,
+]
+`;
